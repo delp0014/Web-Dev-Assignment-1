@@ -1,0 +1,14 @@
+<!DOCTYPE>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="CSS example 1.css">
+    <title>Title</title>
+    </head>
+<body>
+    <h1>Heading 1</h1>
+    <h2>Heading 2 - Tutorial 2 Week 3</h2>
+    <p title= "hi">Paragraph</p>
+    <img src="test.png" alt="HTML5 Icon" style="width:800px;height:600px;">
+    <p><img src="test.png" alt="HTML5 Icon" style="float:right;width:800px;height:600px;"></p>
+    </body>
+</html>
