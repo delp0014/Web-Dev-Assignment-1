@@ -1,0 +1,12 @@
+{"location":[
+    { "name":"location1","lat":"34.9228","lng":"138.6019"},
+    { "name":"location2", "lat":"34.930","lng":"138.596"},
+    { "name":"location3", "lat":"34.9209","lng":"138.5973"},
+    { "name":"location4", "lat":"34.9206","lng":"138.6062"},
+    { "name":"location5", "lat":"34.9214","lng":"138.5939"},
+    { "name":"location6", "lat":"34.9210","lng":"138.5874"},
+    { "name":"location7", "lat":"34.9196","lng":"138.5981"},
+    { "name":"location8", "lat":"34.9295","lng":"138.5973"},
+    { "name":"location9", "lat":"34.9206","lng":"138.6039"},
+    { "name":"location10", "lat":"34.9356","lng":"138.6098"}
+]}
