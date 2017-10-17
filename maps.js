@@ -1,8 +1,8 @@
 function initMap() {
-  var uluru = {lat: -25.363, lng: 131.044};
+  var uluru = {lat: -34.9285, lng: 138.6007};
   var map = new google.maps.Map(document.getElementById('map'), {
-    zoom: 4,
-    center: uluru
+    zoom: 14,
+    center: adelaide
   });
   var contentString = '<div id="content">'+
       '<div id="siteNotice">'+
@@ -16,9 +16,9 @@ function initMap() {
     content: contentString
   });
   var marker = new google.maps.Marker({
-    position: uluru,
+    position: adelaide,
     map: map,
-    title: 'Uluru (Ayers Rock)'
+    title: 'Rundle Mall'
   });
     google.maps.event.addListener(marker, 'click', function()
     
