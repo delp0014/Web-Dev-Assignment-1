@@ -8,11 +8,10 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name": "Rundlemall",
-        "description": "Rundlemall<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/ujEEC36Lr3c' frameborder='0' allowfullscreen></iframe> <h3>Rundle Mall is a street mall containing various retail stores of fashion, clothing, beauty, and food. With attracting more than 400,000 visitors and locals each week, it is easily one of the most busiest and popular places in the City Of Adelaide.</h3>"
-        
+        "description": "Rundlemall<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/ujEEC36Lr3c' frameborder='0' allowfullscreen></iframe> <h3>Rundle Mall is a street mall containing various retail stores of fashion, clothing, beauty, and food. With attracting more than 400,000 visitors and locals each week, it is easily one of the most busiest and popular places in the City Of Adelaide.</h3>" 
       },
       "geometry": {
-        "type": "Point",
+        "type": "Point",    
         "coordinates": [
         138.6019,
         -34.9228
@@ -95,7 +94,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "name":"Royal Adelaide Hospital",
-        "description": "Royal Adelaide Hopsital<br/><h3>TAlso known as RAH, the Royal Adelaide Hospital is the largest hopsital in Adelaide and South Australia. It provides tertiary health care services for South Australia and provides secondary care clinical services to residents of Adelaide's city centre and inner suburbs.</h3><iframe width='560' height='315' src='https://www.youtube.com/embed/Ozl7pDVtClY' frameborder='0' allowfullscreen></iframe>"
+        "description": "Royal Adelaide Hospital<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/Ozl7pDVtClY' frameborder='0' allowfullscreen></iframe><h3>Also known as RAH, the Royal Adelaide Hospital is the largest hopsital in Adelaide and South Australia. It provides tertiary health care services for South Australia and provides secondary care clinical services to residents of Adelaide's city centre and inner suburbs.</h3>"
       },
       "geometry": {
         "type": "Point",
