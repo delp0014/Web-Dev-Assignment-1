@@ -6,7 +6,7 @@ function initMap() {
     center: adelaide
     });
     
-    map.data.loadGeoJson('map.json');
+    map.data.loadGeoJson('maps.json');
     
     // When the user clicks, open an infowindow
     map.data.addListener('click', function(event) {
