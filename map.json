@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Rundlemall",
+        "description": "Rundlemall<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/ujEEC36Lr3c' frameborder='0' allowfullscreen></iframe> <h3>Rundle Mall is a street mall containing various retail stores of fashion, clothing, beauty, and food. With attracting more than 400,000 visitors and locals each week, it is easily one of the most busiest and popular places in the City Of Adelaide.</h3>"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.6019,
+        -34.9228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"ChinaTown",
+        "description": "ChinaTown<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/U_oD_Jlzngk' frameborder='0' allowfullscreen></iframe> <h3>Adelaide Chinatown is home to many Chinese restaurants, grocery stores and markets but also consists of many non-Chinese Asian restaurants offering cuisines of Indian, Japanese, Korean, Malaysian, Nepali, Thai and Vietnamese origins. Take a stroll down Gouger Street or Grote Street for an amazing variety of cuisines in Adelaide’s Chinatown.</h3>"
+        
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.596,
+        -34.930     
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Adelaide Casino",
+        "description": "Adelaide Casino<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/wOrTQJUZNBA' frameborder='0' allowfullscreen></iframe><h3>Operating with the  Skycity Entertainment Group, Adelaide Casino is a large casino and recreation venue offering 90 gaming tables and 950 gaming machines, complemented by bars, restaurants, and function areas. </h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.5973,
+        -34.9209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "The University of Adelaide",
+        "description": "The University of Adelaide<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/7rO4mPTaGGQ' frameborder='0' allowfullscreen></iframe><h3>The University of Adelaide was established in 1874 and is the third - oldest University in Australia. It is a member of the Group of Eight and the Association of Commonwealth Universities and is regarded as one of Australia’s leading University which compose of five faculties: Engineering Computer and Mathematical Sciences, Health and Medical Sciences, Arts, Professions, and Sciences.</h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.6062,
+        -34.9206 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Adelaide Convention Centre",
+        "description": "Adelaide Convention Centre - North Terrace<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/M10JNYKa7K4' frameborder='0' allowfullscreen></iframe><h3>The Adelaide Convention Centre is a large convention centre, being one of the first purpose-built convention centre in Australia. It was constructed over the Adelaide railway station and has been rebuilt & extended a few times since its original in 1987.</h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.5939,
+        -34.9214  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Royal Adelaide Hospital",
+        "description": "Royal Adelaide Hopsital<br/><h3>TAlso known as RAH, the Royal Adelaide Hospital is the largest hopsital in Adelaide and South Australia. It provides tertiary health care services for South Australia and provides secondary care clinical services to residents of Adelaide's city centre and inner suburbs.</h3><iframe width='560' height='315' src='https://www.youtube.com/embed/Ozl7pDVtClY' frameborder='0' allowfullscreen></iframe>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.5874,
+        -34.9210 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Adelaide Festival Centre",
+        "description": "Adelaide Festival Centre<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/SQdVx4l_984' frameborder='0' allowfullscreen></iframe><h3>Built in 1973, the Adelaide Festival Centre is the first multi-purpose arts centre opened with three months before the Sydney Opera House. It is the home of South Australia’s performing arts and has replaced the City Baths, which occupied the spot for many decades.</h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.5981,
+        -34.9196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Adelaide Central Market",
+        "description": "Adelaide Central Market<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/5jtBMIp6q90' frameborder='0' allowfullscreen></iframe><h3>Home to fresh produce and goods from multi-cultural products, it is one of the largest and ranks in the top tourist attractions in South Australia, boasting an approximate of 8 million visitors per year. </h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.5973,
+        -34.9295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Art Gallery of South Australia",
+        "description": "Art Gallery of South Australia<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/W4RaFWByomo' frameborder='0' allowfullscreen></iframe><h3>This visual arts museum is one of three significant visual arts museums in South Australia. It has a collection of over 38,000 works of art, making it, after the National Gallery of Victoria, the second largest state are collection in Australia.</h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.6039,
+        -34.9206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name":"Adelaide Himeji",
+        "description": "Adelaide Himeji Garden<br/><iframe width='560' height='315' src='https://www.youtube.com/embed/NP-k0YzB5RA' frameborder='0' allowfullscreen></iframe><h3>This south parklands was a gift from Adelaide’s sister city, Himeji, in 1982. The enclosure is one of only a few classical japanese gardens in Adelaide. It was originally designed by council but was later improved by Japanese landscape designer, Yoshitaka Kumada in the late 1980s to adhere to traditional principles.</h3>"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        138.6098,
+        -34.9356 
+        ]
+      }
+    }
+  ]
+}
