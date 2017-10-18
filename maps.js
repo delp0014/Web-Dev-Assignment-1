@@ -1,9 +1,9 @@
 function initMap() {
-    var adelaide = {lat: -34.9285, lng: 138.6007};
+    var initLocation = {lat: -34.9285, lng: 138.6007};
     var infowindow = new google.maps.InfoWindow(); 
     var map = new google.maps.Map(document.getElementById('map'), {
     zoom: 14,
-    center: adelaide
+    center: initLocation
     });
     
     map.data.loadGeoJson('maps.json');
